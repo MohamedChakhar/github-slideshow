@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+If I only could I make deal with god
 Use the left arrow to go back!
